@@ -1,4 +1,4 @@
-# Stylometric-Analysis-of-Authorship-
+# Stylometric-Analysis-of-Authorship
 
 ## Overview
 This project focuses on **author classification** using **stylometric analysis** techniques, leveraging advanced **Large Language Models (LLMs)**. The system is designed to classify texts written by three prominent authors: **Edgar Allan Poe**, **Mary Shelley**, and **H.P. Lovecraft**. By analyzing the unique stylistic features of each author's writing, the model predicts the authorship of a given text.
